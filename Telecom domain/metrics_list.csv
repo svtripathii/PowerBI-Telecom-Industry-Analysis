@@ -1,0 +1,28 @@
+﻿Sno,Measures,Abbreviation,Description,Table
+1,Total Revenue,,Sum of itv Revenue,fact_itv_metrics
+2,Avg Revenue ,,Average revenue of itv,fact_itv_metrics
+3,Average Revenue Per User,ARPU,Average of arpu,fact_itv_metrics
+4,Total Active Users ,,Sum of active users of itv,fact_itv_metrics
+5,Total Unsubscribed Users,,Sum of unsubscribed users of itv ,fact_market_share
+6,Monthly active users,,Average of active users per month,fact_itv_metrics
+7,Market Share %,MS %,Average of ms_pct,fact_market_share
+8,Revenue Before 5G,,Total Revenue for all periods before 5G implementation,fact_itv_metrics & dim_date
+9,Revenue After 5G,,Total Revenue for all periods after 5G implementation,fact_itv_metrics & dim_date
+10,ARPU Before 5G,,ARPU of periods before 5G implementation,fact_itv_metrics & dim_date
+11,ARPU After 5G,,ARPU of periods after 5G implementation,fact_itv_metrics & dim_date
+12,Active Users Before 5G,  ,Total active users for all periods before 5G implementation,fact_itv_metrics & dim_date
+13,Active Users After 5G,,Total active users for all periods after 5G implementation,fact_itv_metrics & dim_date
+14,Unsubscribed users Before 5G,,Total unsubscribed users for all periods before 5G implementation,fact_itv_metrics & dim_date
+15,Unsubscribed users After 5G,,Total unsubscribed users for all periods after 5G implementation,fact_itv_metrics & dim_date
+,,,,
+,,,,
+,,,,
+,Questions to answer,,,
+1,Percentage growth in revenue before and after 5g implementation for each city,,,
+2,Percentage growth in revenue before and after 5g implementation for each Plan,,,
+3,City wise active users in lakh before 5g and after 5g ,,,
+4,Market share over months for all companies,,,
+5,Top Plans by revenue,,,
+6,Monthly trend of avg ARPU before and after 5g,,,
+7,Monthly trend of avg active users before and after 5g,,,
+8,Monthly trend of unsubscribed users before 5g and after 5g,,,
