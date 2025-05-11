@@ -1,5 +1,6 @@
 # PowerBI-Telecom-Industry-Analysis
 Project Overview
+
 This project analyzes the impact of 5G implementation on India’s telecom sector, focusing on key metrics like active users, revenue, market share, and customer behavior. The analysis compares performance before and after 5G rollout across cities, companies, and service plans. Key questions addressed:
 
 How did 5G affect user subscriptions and revenue?
